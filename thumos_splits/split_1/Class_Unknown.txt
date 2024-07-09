@@ -1,0 +1,5 @@
+CliffDiving
+CricketBowling
+Diving
+HammerThrow
+JavelinThrow

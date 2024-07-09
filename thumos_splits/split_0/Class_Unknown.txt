@@ -1,0 +1,5 @@
+CleanAndJerk
+CliffDiving
+Diving
+LongJump
+SoccerPenalty

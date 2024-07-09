@@ -1,0 +1,15 @@
+BaseballPitch
+BasketballDunk
+Billiards
+CricketBowling
+CricketShot
+FrisbeeCatch
+GolfSwing
+HammerThrow
+HighJump
+JavelinThrow
+PoleVault
+Shotput
+TennisSwing
+ThrowDiscus
+VolleyballSpiking

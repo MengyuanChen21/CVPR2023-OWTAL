@@ -1,0 +1,15 @@
+BaseballPitch
+BasketballDunk
+Billiards
+CleanAndJerk
+CricketShot
+FrisbeeCatch
+GolfSwing
+HighJump
+LongJump
+PoleVault
+Shotput
+SoccerPenalty
+TennisSwing
+ThrowDiscus
+VolleyballSpiking

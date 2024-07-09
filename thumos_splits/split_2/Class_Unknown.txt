@@ -1,0 +1,5 @@
+CricketShot
+JavelinThrow
+LongJump
+PoleVault
+Shotput
